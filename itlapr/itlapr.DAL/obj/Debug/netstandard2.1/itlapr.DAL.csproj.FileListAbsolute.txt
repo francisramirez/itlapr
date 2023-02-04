@@ -1,0 +1,10 @@
+C:\projects\itlapr\itlapr.DAL\bin\Debug\netstandard2.1\itlapr.DAL.deps.json
+C:\projects\itlapr\itlapr.DAL\bin\Debug\netstandard2.1\itlapr.DAL.dll
+C:\projects\itlapr\itlapr.DAL\bin\Debug\netstandard2.1\itlapr.DAL.pdb
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.csproj.AssemblyReference.cache
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.AssemblyInfoInputs.cache
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.AssemblyInfo.cs
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.csproj.CoreCompileInputs.cache
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.dll
+C:\projects\itlapr\itlapr.DAL\obj\Debug\netstandard2.1\itlapr.DAL.pdb
