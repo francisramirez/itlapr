@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj": {}
+    "C:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj": {}
   },
   "projects": {
-    "c:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj": {
+    "C:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj",
+        "projectUniqueName": "C:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj",
         "projectName": "itlapr.DAL",
-        "projectPath": "c:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj",
+        "projectPath": "C:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj",
         "packagesPath": "C:\\Users\\Francis Ramirez\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\itlapr\\itlapr.DAL\\obj\\",
+        "outputPath": "C:\\projects\\itlapr\\itlapr.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

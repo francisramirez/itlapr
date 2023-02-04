@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gtbgpJRTDWSuhW5/vD4E+rvZ/kuvHWctv8RQYDw90kpsxgy8wdrErPOUt6NFB+IdglVHewfyUNImUry5k+GFvg==",
+  "dgSpecHash": "Iz5hpcjy5lIg6PKkar4ASf1WZNppzq2uvUrYOWjw6il30+UlM3nZCubJg+bckRGLATitJVEQWK+5wD6Fh5Rp/A==",
   "success": true,
-  "projectFilePath": "c:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj",
+  "projectFilePath": "C:\\projects\\itlapr\\itlapr.DAL\\itlapr.DAL.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

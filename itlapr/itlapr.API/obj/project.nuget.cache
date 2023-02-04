@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lwKGNngKj8jAtMW0CGBjv1kq7UjdGkQ1TUIEd9eOaVWt8daT05i2x0Uk2YAm/nvy/74vlcCYuAw8L+vTbd1eg==",
+  "dgSpecHash": "KG2GgaVjZ2h+0wvAHzOuOTTMbLkUale7wjQ6Y+n6efEcn2h9/lqfgYSw0Lsn3nVUj0uxFuvsRBKlD+mSNHAv7g==",
   "success": true,
-  "projectFilePath": "c:\\projects\\itlapr\\itlapr.API\\itlapr.API.csproj",
+  "projectFilePath": "C:\\projects\\itlapr\\itlapr.API\\itlapr.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Francis Ramirez\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Francis Ramirez\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

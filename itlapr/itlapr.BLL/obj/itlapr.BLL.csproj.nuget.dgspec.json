@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj": {}
+    "C:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj": {}
   },
   "projects": {
-    "c:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj": {
+    "C:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj",
+        "projectUniqueName": "C:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj",
         "projectName": "itlapr.BLL",
-        "projectPath": "c:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj",
+        "projectPath": "C:\\projects\\itlapr\\itlapr.BLL\\itlapr.BLL.csproj",
         "packagesPath": "C:\\Users\\Francis Ramirez\\.nuget\\packages\\",
-        "outputPath": "c:\\projects\\itlapr\\itlapr.BLL\\obj\\",
+        "outputPath": "C:\\projects\\itlapr\\itlapr.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
